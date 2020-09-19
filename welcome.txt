@@ -1,3 +1,4 @@
+Apples are red
 This demo is used to show how to add new files to git
 This line is to update the demo file
 This line is to demo git pull
